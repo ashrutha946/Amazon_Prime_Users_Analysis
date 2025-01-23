@@ -1,4 +1,4 @@
-# Amazon_Prime_Users_Analysis
+# Amazon_Prime_Users_Analysis POWER BI PROJECT
 
 Amazon Prime Users Analysis: Power BI Dashboard Project
 
